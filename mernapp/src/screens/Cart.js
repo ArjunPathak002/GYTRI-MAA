@@ -57,7 +57,7 @@ export const Cart = () => {
               <th scope='col' >Name</th>
               <th scope='col' >Quantity</th>
               <th scope='col' >Option</th>
-              <th scope='col' >Amounts</th>
+              <th scope='col' >Amountss</th>
               <th scope='col' ></th>
             </tr>
           </thead>
